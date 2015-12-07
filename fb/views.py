@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from facebookads.api import FacebookAdsApi
 from facebookads import objects
 from facebookads.objects import AdAccount
-from facebookads.objects import AdCampaign
+from facebookads.objects import Campaign
 from allauth.socialaccount.models import SocialToken, SocialAccount
 import json
 import ast
