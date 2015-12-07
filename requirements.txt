@@ -1,0 +1,6 @@
+googleads 
+facebookads 
+django 
+django-allauth 
+django-excel 
+pyexcel-xls 
